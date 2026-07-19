@@ -11,7 +11,8 @@ Source repository: https://github.com/daandobber/kodiremote
 - Browser for movies, TV shows and music in the Kodi library.
 - On-device text entry for Kodi search fields.
 - Optional library and cover-art preloading.
-- Configurable display sleep after 30, 60 or 90 seconds.
+- Configurable sleep after 30, 60 or 90 seconds switches off the display,
+  keyboard backlight and status LEDs together.
 - Stores the Kodi host, port and optional login details on the device.
 
 ## Setup
